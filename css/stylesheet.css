@@ -1,0 +1,54 @@
+body{
+	font-family: Arial;
+	margin: 20px 100px 100px 30px;
+}
+
+span.Meere {
+	color: #000000;
+	text-transform: uppercase;
+}
+
+p.Vorwort{
+	background-color: #C8C8C8;
+	border-left: solid 25px #006B5F;
+	padding: 25px;
+}
+
+h1{
+	background-color: #006B5F;
+	color: white;
+	padding: 20px;
+	font-size: 350%;
+	font-family: "Arial Black";
+}
+
+h2{
+	border-bottom: 2px dotted;
+	font-size: 200%;
+	padding-left: 20px;
+}
+
+h3{
+	color: #006D5F;
+	padding-left: 20px;
+}
+
+span.makiert{
+	color: #006D5F;
+	font-weight: bold;
+}
+
+nav.box {
+	background-color: #006D5F;
+	float: left;
+	margin: 0px 40px 40px 0px;
+	width: 300px;
+}
+
+nav.box p {
+	color: white;
+	line-height: 150%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
